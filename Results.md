@@ -66,6 +66,7 @@
 ![InjectionSort_CaseB_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_CaseB.svg?raw=true)
 ![InjectionSort_Durations](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_Durations.svg?raw=true)
 
+<hr>
 
 <table style="width:100%">
   <tr>
@@ -126,8 +127,22 @@
     <td>0.8663651</td>
     <td>4.9366916</td>
   </tr>
-  
-  
+</table>
+
+<hr>
+
+<table style="width:100%">
+  <tr>
+    <th>Sorting Algorithm</th>
+    <th>Case</th>
+    <th>Reading</th>
+    <th>10,000</th>
+    <th>Avg</th>
+    <th>100,000</th>
+    <th>Avg</th>
+    <th>1,000,000</th>
+    <th>Avg</th>
+  </tr>
   
   <tr>
     <td rowspan=6>Counting Sort</td>
