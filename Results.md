@@ -1,5 +1,7 @@
-## Results Table - Thomas Lauer (October 13, 2021)
+# Results Table - Thomas Lauer (October 13, 2021)
 <hr>
+
+## Insertion Sort
 
 <table style="width:100%">
   <tr>
@@ -62,11 +64,16 @@
   </tr>
 </table>
 
+Insertion Sort - Case A => O(n)<br>
+Insertion Sort - Case B => O(n^2)<br>
+
 ![InjectionSort_CaseA_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_CaseA.svg?raw=true)
 ![InjectionSort_CaseB_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_CaseB.svg?raw=true)
 ![InjectionSort_Durations](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_Durations.svg?raw=true)
 
-<hr>
+<br><hr>
+
+## Merge Sort
 
 <table style="width:100%">
   <tr>
@@ -129,7 +136,16 @@
   </tr>
 </table>
 
-<hr>
+Merge Sort - Case A => O(n)<br>
+Merge Sort - Case B => O(n)<br>
+
+![MergeSort_CaseA_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/MergeSort_CaseA.svg?raw=true)
+![MergeSort_CaseB_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/MergeSort_CaseB.svg?raw=true)
+![MergeSort_Durations](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/MergeSort_Durations.svg?raw=true)
+
+<br><hr>
+
+## Counting Sort
 
 <table style="width:100%">
   <tr>
@@ -191,6 +207,11 @@
     <td>0.8132695</td>
   </tr>
   
-  
-  
 </table>
+
+Counting Sort - Case A => O(n)<br>
+Counting Sort - Case B => O(n)<br>
+
+![CountingSort_CaseA_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/CountingSort_CaseA.svg?raw=true)
+![CountingSort_CaseB_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/CountingSort_CaseB.svg?raw=true)
+![CountingSort_Durations](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/CountingSort_Durations.svg?raw=true)
