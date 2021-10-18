@@ -1,6 +1,7 @@
 ## Results Table - Thomas Lauer (October 13, 2021)
+<hr>
 
-<table>
+<table style="width:100%">
   <tr>
     <th>Sorting Algorithm</th>
     <th>Case</th>
@@ -12,8 +13,6 @@
     <th>1,000,000</th>
     <th>Avg</th>
   </tr>
-  
-  
   
   <tr>
     <td rowspan=6>Insertion Sort</td>
@@ -61,8 +60,25 @@
     <td>655.1699829</td>
     <td>57475.5046613</td>
   </tr>
-  
-  
+</table>
+
+![InjectionSort_CaseA_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_CaseA.svg?raw=true)
+![InjectionSort_CaseB_Timings](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_CaseB.svg?raw=true)
+![InjectionSort_Durations](https://github.com/tjlauer/CIS223_Task3/blob/main/Images/InsertionSort_Durations.svg?raw=true)
+
+
+<table style="width:100%">
+  <tr>
+    <th>Sorting Algorithm</th>
+    <th>Case</th>
+    <th>Reading</th>
+    <th>10,000</th>
+    <th>Avg</th>
+    <th>100,000</th>
+    <th>Avg</th>
+    <th>1,000,000</th>
+    <th>Avg</th>
+  </tr>
   
   <tr>
     <td rowspan=6>Merge Sort</td>
