@@ -117,47 +117,47 @@
     <td rowspan=6>Counting Sort</td>
     <td rowspan=3>A</td>
     <td>1</td>
-    <td></td>
-    <td rowspan=3></td>
-    <td></td>
-    <td rowspan=3></td>
-    <td></td>
-    <td rowspan=3></td>
+    <td>0.0064525</td>
+    <td rowspan=3>0.0077320</td>
+    <td>0.0923856</td>
+    <td rowspan=3>0.1171897</td>
+    <td>0.8215346</td>
+    <td rowspan=3>1.0777135</td>
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0.0095489</td>
+    <td>0.0761710</td>
+    <td>0.8353502</td>
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0.0071946</td>
+    <td>0.1830124</td>
+    <td>1.5762558</td>
   </tr>
   
   <tr>
     <td rowspan=3>B</td>
     <td>1</td>
-    <td></td>
-    <td rowspan=3></td>
-    <td></td>
-    <td rowspan=3></td>
-    <td></td>
-    <td rowspan=3></td>
+    <td>0.0070597</td>
+    <td rowspan=3>0.0084587</td>
+    <td>0.1669267</td>
+    <td rowspan=3>0.1481636</td>
+    <td>0.8373364</td>
+    <td rowspan=3>0.8764878</td>
   </tr>
   <tr>
     <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0.0095054</td>
+    <td>0.1032503</td>
+    <td>0.9788574</td>
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0.0088111</td>
+    <td>0.1743139</td>
+    <td>0.8132695</td>
   </tr>
   
   
