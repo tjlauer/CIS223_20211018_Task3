@@ -33,3 +33,8 @@ To determine the sorting time, replace line 3 with appropriate function name.
 3. <code>a = my_insertion_sort(n)</code>
 4. <code>elapsed_time = time.process_time() – t</code>
 5. <code>print(elapsed_time) # Note down this time in the table</code>
+
+<br><hr>
+
+## Results
+For the results, see the `Results.md` file.
